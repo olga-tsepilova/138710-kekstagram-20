@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ольга Цепилова](https://up.htmlacademy.ru/javascript/20/user/138710).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
